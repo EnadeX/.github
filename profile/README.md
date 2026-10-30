@@ -1,4 +1,11 @@
-# EnadeX — ENADE eXplainability Framework
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/enadex-banner-negativo.svg">
+    <img src="assets/enadex-banner.svg" alt="EnadeX" width="420">
+  </picture>
+</p>
+
+<p align="center"><strong>ENADE eXplainability Framework</strong></p>
 
 Arquitetura integrada de **mineração de dados, explicabilidade e Visual Analytics** para explorar os microdados do ENADE (INEP).
 
